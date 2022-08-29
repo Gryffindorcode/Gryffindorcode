@@ -1,5 +1,5 @@
 # Hi there, I am Alexander! 👋 
-<p>am a Frontend Developer 👨‍💻 <p>
+<p> I am a Frontend Developer 👨‍💻 <p>
 
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
   
