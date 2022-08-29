@@ -1,9 +1,10 @@
 # Hi there, I am Alexander! 👋 
 <p> I am a Frontend Developer 👨‍💻  <br>
 I like tea and hawaiian pineaple pizza 🍕 <br>
+loving all kind of pets but have soft spot for 🐶 <br>
 Environmental activist 🌱 <br>
 Reader and writer ✨ <br>
-he / his / him 🙋‍♂️<p>
+he / his / him 🙋‍ <p>
 
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
   
