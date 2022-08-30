@@ -21,6 +21,7 @@ he / his / him 🙋‍ </p>
 
 <h2>Skills</h2>
 <p> 
+  <li>Python</li>
   <li>Modern CSS</li>
   <li>HTML5</li>
   <li>Tailwind</li>
@@ -30,6 +31,7 @@ he / his / him 🙋‍ </p>
 
 <h2>In Progress</h2> 
  <p> 
+  <li>Node.JS</li>
   <li>JavaScript</li>
   <li>React.JS</li>
   <li>Swift</li>
