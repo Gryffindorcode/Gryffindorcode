@@ -14,7 +14,7 @@ he / his / him 🙋‍ </p>
 ***
 
 <br>
- <img alt="Coder GIF" height=250 width=350 src="https://github.com/Gryffindorcode/Gryffindorcode/blob/main/assets/cute%20cat.png" />
+ <img alt="Coder GIF" height=250 width=350 src="https://github.com/Gryffindorcode/Gryffindorcode/blob/main/img/cute-cat.png" />
  
 
 <br>
