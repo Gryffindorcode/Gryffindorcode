@@ -44,7 +44,7 @@ he / his / him 🙋‍ </p>
     ----------------------------
     
     I would be happy to help 🌟
-    open to new colabs and learning new things 👾
+    open to colabs and learning new things 👾
  
 
 
