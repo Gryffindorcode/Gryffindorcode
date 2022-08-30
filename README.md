@@ -12,9 +12,12 @@ Environmental activist 🌱 <br>
 Reader and writer ✨ <br>
 he / his / him 🙋‍ </p>
 
- 
- <img height=250 width=250 src="https://dribbble.com/shots/19253956-Cute-Planet-006-Cat" />
 <br>
+ 
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+
+<br>
+
 <h2>Skills</h2>
 <p> 
   <li>Modern CSS</li>
