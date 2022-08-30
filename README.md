@@ -55,3 +55,5 @@ he / his / him 🙋‍ </p>
 
 
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUSxKiac-miugK9CDsxGS9Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/Gryffindorcode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Gryffindorcode&screen_name=Gryffindotcode)
