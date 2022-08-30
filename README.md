@@ -43,8 +43,8 @@ he / his / him 🙋‍ </p>
     Hello World :)
     ----------------------------
     
-          ##  I would be happy to help 🌟
-              open to new colabs and learning new things 👾
+    I would be happy to help 🌟
+    open to new colabs and learning new things 👾
  
 
 
