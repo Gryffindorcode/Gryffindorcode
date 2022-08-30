@@ -27,7 +27,9 @@ he / his / him 🙋‍ </p>
    <li>Swift UI</li>
   <p>
     
-    ---
+    
+    Hello World :)
+    ----------------------------
     
           ##  I would be happy to help 🌟
               open to new colabs and learning new things 👾
