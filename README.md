@@ -4,13 +4,14 @@
 Self-taught software engineer who loves to learn and help others. 
 ***
 
-<br>
 <p> I am a front-end Developer 👨‍💻  <br>
 I like tea and hawaiian pineaple pizza 🍕 <br>
 Loving all kind of pets but have soft spot for 🐶 <br>
 Environmental activist 🌱 <br>
 Reader and writer ✨ <br>
 he / his / him 🙋‍ </p>
+
+***
 
 <br>
  
