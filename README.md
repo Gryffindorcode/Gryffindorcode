@@ -13,6 +13,7 @@ Reader and writer ✨ <br>
 he / his / him 🙋‍ </p>
 
  
+ <img height=250 width=250 src="https://dribbble.com/shots/19253956-Cute-Planet-006-Cat" />
 <br>
 <h2>Skills</h2>
 <p> 
