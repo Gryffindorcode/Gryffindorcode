@@ -29,8 +29,8 @@ he / his / him 🙋‍ </p>
     
     ---
     
-    ## I would be happy to help 🌟
-       open to new colabs, and learning new things
+          ##  I would be happy to help 🌟
+              open to new colabs and learning new things 👾
  
 
 
