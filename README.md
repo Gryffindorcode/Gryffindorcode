@@ -1,9 +1,13 @@
 # Hi there, I am Alexander! 👋 
 
+
+Self-taught software engineer who loves to learn and help others. 
+***
+
 <br>
-<p> I am a Frontend Developer 👨‍💻  <br>
+<p> I am a front-end Developer 👨‍💻  <br>
 I like tea and hawaiian pineaple pizza 🍕 <br>
-loving all kind of pets but have soft spot for 🐶 <br>
+Loving all kind of pets but have soft spot for 🐶 <br>
 Environmental activist 🌱 <br>
 Reader and writer ✨ <br>
 he / his / him 🙋‍ </p>
