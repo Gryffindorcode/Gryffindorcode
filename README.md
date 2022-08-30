@@ -9,9 +9,9 @@ Reader and writer ✨ <br>
 he / his / him 🙋‍ </p>
 
  
- <br>
- <h2>Skills</h2>
- <p> 
+<br>
+<h2>Skills</h2>
+<p> 
   <li>Modern CSS</li>
   <li>HTML5</li>
   <li>Tailwind</li>
@@ -19,13 +19,13 @@ he / his / him 🙋‍ </p>
 </p> 
 
 
- <h2>In Progress</h2> 
+<h2>In Progress</h2> 
  <p> 
   <li>JavaScript</li>
   <li>React.JS</li>
   <li>Swift</li>
    <li>Swift UI</li>
-  <p>
+ <p>
     
   <br>
     
