@@ -6,7 +6,6 @@ loving all kind of pets but have soft spot for 🐶 <br>
 Environmental activist 🌱 <br>
 Reader and writer ✨ <br>
 he / his / him 🙋‍ <p>
----
 
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
   
