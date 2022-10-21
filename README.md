@@ -13,7 +13,6 @@ he / his / him 🙋‍ </p>
 
 ***
 
----
 - I'd like to believe through hardship and patient we can build something amazing
 - There's alwyas will be chanllenges and struggles and that's okay
 - keep going, keep learning and help others to make this world a better place to live
