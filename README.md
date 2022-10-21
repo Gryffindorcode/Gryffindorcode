@@ -17,10 +17,10 @@ Self-taught software engineer who loves to learn and help others.
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 ---
-- I'd like to believe through hardship and patient we can build something amazing <br>
-- there's alwyas will be challenges and struggles and that's okay <br>
-- keep going, keep learning and help others to make this world a better place to live <br>
-- that's what gives me joy and strenth <br>
+I'd like to believe through hardship and patient we can build something amazing <br>
+there's alwyas will be challenges and struggles and that's okay, just keep going <br>
+keep learning and help others to make this world a better place to live <br>
+that's what gives me joy and strenth <br>
 
 
 ---
