@@ -18,27 +18,6 @@ he / his / him 🙋‍ </p>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 <br>
-
-<h2>Skills</h2>
-<p> 
-  <li>Python</li>
-  <li>Modern CSS</li>
-  <li>HTML5</li>
-  <li>Tailwind</li>
-   <li>Bootstrap</li>
-</p> 
-
-
-<h2>In Progress</h2> 
- <p> 
-  <li>Node.JS</li>
-  <li>JavaScript</li>
-  <li>React.JS</li>
-  <li>Swift</li>
-   <li>Swift UI</li>
- <p>
-    
-  <br>
     
     Hello World :)
     ----------------------------
