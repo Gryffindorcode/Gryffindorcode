@@ -13,11 +13,16 @@ he / his / him 🙋‍ </p>
 
 ***
 
-<br>
+---
+- I'd like to believe through hardship and patient we can build something amazing
+- There's alwyas will be chanllenges and struggles and that's okay
+- keep going, keep learning and help others to make this world a better place to live
+- thats what gives me joy and strenth 
+---
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
-<br>
+---
     
     Hello World :)
     ----------------------------
