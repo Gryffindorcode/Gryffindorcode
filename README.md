@@ -33,7 +33,7 @@ that's what gives me joy and strenth <br>
  
 
 
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://github.com/sofiancode/sofiancode/blob/main/img/chilling.gif" />
   
 <br>
 <br>
